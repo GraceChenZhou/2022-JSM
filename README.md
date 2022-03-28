@@ -1,3 +1,7 @@
+# [2022 Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2022/)
+* Aug. 6-11, 2022 | Washington, DC
+* Submitted as a contributed paper
+
 # Title
 
 Multilevel Bayesian joint modeling for a longitudinal marker and time-to-recurrent event to characterize heterogeneity in multi-center studies

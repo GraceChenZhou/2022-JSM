@@ -1,6 +1,6 @@
 # [2022 Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2022/)
 * Aug. 6-11, 2022 | Washington, DC
-* Submitted as a contributed paper
+* Paper presenter: Wed., 8/10/2022 at 2:00pm (ET). 
 
 # Title
 

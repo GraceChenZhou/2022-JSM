@@ -19,3 +19,7 @@ Preliminary results show that both value and slope of the ppFEV1 trajectory were
 
 multi-center, recurrent event, joint model, Hamiltonian Monte Carlo, medical monitoring
 
+# Authors
+
+Grace C. Zhou, Seongho Song, Pedro M. Afonso, Eleni-Rosalina Andrinopoulou, Rhonda D. Szczesniak
+
